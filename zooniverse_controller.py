@@ -10,7 +10,7 @@ play_pause_key = "p"
 stats_key = "s"
 quit_key = "q"
 close_popup_key = "c"
-stop_script_key = "n"
+stop_script_key = "k"
 resume_script_key = "m"
 
 print("Zooniverse Web Interface Keyboard Controller")
