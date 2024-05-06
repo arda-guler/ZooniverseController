@@ -72,7 +72,7 @@ while running:
                 elif current_selection == "no":
                     no += 1
 
-                current_selection == None
+                current_selection = None
                 time.sleep(0.05)
 
             elif kbd.is_pressed(done_key):
@@ -84,7 +84,7 @@ while running:
                 elif current_selection == "no":
                     no += 1
 
-                current_selection == None
+                current_selection = None
                 time.sleep(0.05)
 
             elif kbd.is_pressed(quit_key):
